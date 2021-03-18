@@ -1,0 +1,6 @@
+message HelloWorld
+{
+	optional string m_Str=1;
+	optional int32 m_Num_1=2;
+	optional float m_Num_2=3;
+}
